@@ -14,5 +14,5 @@
 
 # Github stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunaneto2904&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=A020F0&title_color=0000ff&text_color=FFF)
-## contribuições/projetos 
+## contribuições/projetos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lunaneto2904&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0000ff&text_color=FFF)](https://github.com/lunaneto2904/dio-lab-open-source)
